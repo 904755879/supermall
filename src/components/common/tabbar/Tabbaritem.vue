@@ -47,7 +47,7 @@ export default {
     /* border: 1px inset white; */
     flex: 1;
     height: 59px;
-    line-height: 29px;
+    line-height: 31px;
     text-align: center;
     font-size: 14px;
 
@@ -56,7 +56,7 @@ export default {
     height: 24px;
     width: 24px;
     margin-top: 3px;
-    vertical-align: middle;  /* 去除图片下面的空白 */
+    vertical-align: middle; /*  去除图片下面的空白 */
 }
 /* .active{
     color: brown;
